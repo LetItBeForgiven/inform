@@ -15,7 +15,7 @@ UtellU 是使用 Node.js + MongoDB + 其它客户端框架开发的个人博客�
 
 ```
 $ git clone git@github.com:LetItBeForgiven/inform.git
-$ cd UtellU-vue
+$ cd inform
 $ npm install
 $ npm run dev
 ```

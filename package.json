@@ -1,7 +1,7 @@
 {
-  "name": "jackblog-vue",
+  "name": "UtellU-vue",
   "version": "2.1.1",
-  "description": "Jackblog vue 版",
+  "description": "UtellU vue 版",
   "scripts": {
     "start": "npm-run-all --sequential build start:dist",
     "dev": "webpack-dev-server --open --progress --profile --watch",
@@ -13,20 +13,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jackhutu/jackblog-vue.git"
+    "url": "git+https://github.com/jackhutu/UtellU-vue.git"
   },
   "keywords": [
     "vue",
     "vue2",
     "vuex",
-    "jackblog"
+    "UtellU"
   ],
   "author": "Jack Hu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jackhutu/jackblog-vue/issues"
+    "url": "https://github.com/jackhutu/UtellU-vue/issues"
   },
-  "homepage": "https://github.com/jackhutu/jackblog-vue#readme",
+  "homepage": "https://github.com/jackhutu/UtellU-vue#readme",
   "devDependencies": {
     "babel-core": "6.24.1",
     "babel-loader": "6.4.1",
@@ -45,7 +45,7 @@
     "font-awesome": "^4.6.3",
     "html-webpack-plugin": "2.28.0",
     "image-webpack-loader": "^3.3.1",
-    "jackblog-sass": "^1.0.9",
+    "UtellU-sass": "^1.0.9",
     "nodemon": "^1.11.0",
     "npm-run-all": "^4.0.2",
     "rimraf": "^2.6.1",

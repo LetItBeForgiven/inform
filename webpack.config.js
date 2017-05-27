@@ -33,7 +33,7 @@ let config = {
     new ExtractTextPlugin({ filename: '[hash:8].style.css', disable: false, allChunks: true }),
     new HtmlWebpackPlugin({
       favicon:path.join(__dirname,'src/favicon.ico'),
-      title: 'Jackblog vue版',
+      title: 'UtellU vue版',
       template: path.join(__dirname,'src/index.html'),  //模板文件
       inject:'body',
       hash:false,    //为静态资源生成hash值
