@@ -1,4 +1,4 @@
-### [查看Releases](https://github.com/jackhutu/UtellU-vue/releases)
+### [查看Releases](https://github.com/jackhutu/jackblog-vue/releases)
 
 1.2.3 / 2016-07-11
 ==================
@@ -19,7 +19,7 @@
 * 更新vue 到 1.0.21
 * 更新vue-router 到 0.7.13
 * 更新vue-validator 到 2.0.1
-* 更新UtellU-sass 到 1.0.4
+* 更新jackblog-sass 到 1.0.4
 * 增加eslint代码检查
 
 
@@ -28,7 +28,7 @@
 
 * 更新vue 到 1.0.17
 * 更新vuex 到 0.6.2
-* 更新UtellU-sass 到 1.0.3
+* 更新jackblog-sass 到 1.0.3
 * 重新设计消息提示组件
 
 1.1.1 / 2016-02-28
@@ -39,7 +39,7 @@
 1.1.0 / 2016-02-28
 ==================
 
-* 去掉sass文件, 全用独立css npm 安装包 =>  UtellU-sass
+* 去掉sass文件, 全用独立css npm 安装包 =>  jackblog-sass
 * 同时去掉node-sass, sass-loader等相关库
 * 增加scroll to top 组件
 

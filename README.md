@@ -1,11 +1,11 @@
-# UtellU Vue 版
-[![Dependency Status](https://david-dm.org/jackhutu/UtellU-vue.svg)](https://david-dm.org/jackhutu/UtellU-vue) 
-[![devDependency Status](https://david-dm.org/jackhutu/UtellU-vue/dev-status.svg)](https://david-dm.org/jackhutu/UtellU-vue#info=devDependencies)  
+# Jackblog Vue 版
+[![Dependency Status](https://david-dm.org/jackhutu/jackblog-vue.svg)](https://david-dm.org/jackhutu/jackblog-vue) 
+[![devDependency Status](https://david-dm.org/jackhutu/jackblog-vue/dev-status.svg)](https://david-dm.org/jackhutu/jackblog-vue#info=devDependencies)  
 
-UtellU 是使用 Node.js + MongoDB + 其它客户端框架开发的个人博客系统,前后端分离.    
-服务端有: [express 版](https://github.com/jackhutu/UtellU-api-express) , [koa 版](https://github.com/jackhutu/UtellU-api-koa)         
-客户端有: [angular1.x 版](https://github.com/jackhutu/UtellU-angular1) , [angular2.x 版](https://github.com/jackhutu/UtellU-angular2) , [react 版](https://github.com/jackhutu/UtellU-react) , [vue 版](https://github.com/jackhutu/UtellU-vue)    
-移动端有: [react native 版](https://github.com/jackhutu/UtellU-react-native-redux), [ionic2.0 版](https://github.com/jackhutu/UtellU-ionic2)      
+Jackblog 是使用 Node.js + MongoDB + 其它客户端框架开发的个人博客系统,前后端分离,仿简书模板.    
+服务端有: [express 版](https://github.com/jackhutu/jackblog-api-express) , [koa 版](https://github.com/jackhutu/jackblog-api-koa)         
+客户端有: [angular1.x 版](https://github.com/jackhutu/jackblog-angular1) , [angular2.x 版](https://github.com/jackhutu/jackblog-angular2) , [react 版](https://github.com/jackhutu/jackblog-react) , [vue 版](https://github.com/jackhutu/jackblog-vue)    
+移动端有: [react native 版](https://github.com/jackhutu/jackblog-react-native-redux), [ionic2.0 版](https://github.com/jackhutu/jackblog-ionic2)      
 ##### 此为客户端vue版, 需要配合服务端使用. 
 
 > 服务端任选一种, 请预先安装并启动服务端
@@ -14,8 +14,8 @@ UtellU 是使用 Node.js + MongoDB + 其它客户端框架开发的个人博客�
 ## 开发
 
 ```
-$ git clone git@github.com:LetItBeForgiven/inform.git
-$ cd inform
+$ git clone git@github.com:jackhutu/jackblog-vue.git
+$ cd jackblog-vue
 $ npm install
 $ npm run dev
 ```
